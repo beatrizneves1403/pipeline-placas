@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+dataset/imagens/*
+!dataset/imagens/LEIA-ME.txt
+placas_extraidas/*
+!placas_extraidas/README.md
+work/publish-meta/
